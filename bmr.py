@@ -2,7 +2,7 @@
 #description
 print("This Calculator Will Help Determine Your Basal Metabolic Rate (BMR). A low BMR means you have to eat less calories in order to lose body fat and weight. The Metabolic age is calculated by comparing your Basal Metabolic Rate to the average BMR of your chronological age group. If your metabolic age is higher than your actual age, it's an sign that you need to improve your metabolic rate.")
 
-
+#made the bmr calculator into a function so that it can call itself to start over
 def calculate_bmr():
     #ask the users gender
     gender = input("Are you M or F? ")
