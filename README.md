@@ -14,4 +14,4 @@ You can calculate your basal metabolic rate using a mathematical formula but in 
 
 -clone or form the github
 
--runn bmr.py in the terminal
+-run bmr.py in the terminal
