@@ -8,3 +8,10 @@ This calculator uses the 1918 with the Harris-Benedict equation. This equation i
 In further detail. Basal metabolic rate (BMR) is the total number of calories that your body needs to perform basic, life-sustaining functions.
 These basal functions include circulation, breathing, cell production, nutrient processing, protein synthesis, and ion transport.
 You can calculate your basal metabolic rate using a mathematical formula but in this case we will do that for you!
+
+
+#### To Run
+
+-clone or form the github
+
+-runn bmr.py in the terminal
